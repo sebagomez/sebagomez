@@ -7,4 +7,4 @@
 - 💬 Ask me about anything (I might not know the answer but I know people)
 - 📫 How to reach me: [@sebagomez](http://twitter.com/sebagomez)
 - 😄 Pronouns: him/his
-- ⚡ Fun fact: I've run 5 marathons
+- 🏃‍♂️ Fun fact: I've run 5 marathons
