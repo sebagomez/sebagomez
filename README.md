@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Sebastián
 
 - 🔭 I’m currently working on application deployment
-- 🌱 I’m currently learning about Cloud Native applications
+- 🌱 I’m currently learning about scaling and high availablility
 - 👯 I’m looking to collaborate on whatever excites me 
 - 🤔 I’m looking for help with... (I guess I should be asking for help with something) 
 - 💬 Ask me about anything (I might not know the answer but I know people)
